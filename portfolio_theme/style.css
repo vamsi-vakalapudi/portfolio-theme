@@ -1,0 +1,16 @@
+body {
+    overflow-x: hidden;
+}
+#main-header img {
+    height: 388.8px;
+} 
+#main-header .menu-item {
+    width: 25%;
+}
+#main-header .bg-black {
+    background-color: black;
+}
+#cardbtn:hover {
+    cursor: pointer;
+    opacity: 0.8;    
+}
